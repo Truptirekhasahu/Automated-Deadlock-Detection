@@ -1,0 +1,4 @@
+tkinter
+netwrokX
+matplotlib
+sqlite3
